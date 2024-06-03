@@ -1,0 +1,2 @@
+# FileSignaturePolicy
+File Signature Policy
