@@ -1,0 +1,10 @@
+C:\Users\aliuy\Source\Repos\FileSignaturePolicy\FileSignaturePolicy\bin\Debug\netstandard2.1\FileSignaturePolicy.deps.json
+C:\Users\aliuy\Source\Repos\FileSignaturePolicy\FileSignaturePolicy\bin\Debug\netstandard2.1\FileSignaturePolicy.dll
+C:\Users\aliuy\Source\Repos\FileSignaturePolicy\FileSignaturePolicy\bin\Debug\netstandard2.1\FileSignaturePolicy.pdb
+C:\Users\aliuy\Source\Repos\FileSignaturePolicy\FileSignaturePolicy\obj\Debug\netstandard2.1\FileSignaturePolicy.csproj.AssemblyReference.cache
+C:\Users\aliuy\Source\Repos\FileSignaturePolicy\FileSignaturePolicy\obj\Debug\netstandard2.1\FileSignaturePolicy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliuy\Source\Repos\FileSignaturePolicy\FileSignaturePolicy\obj\Debug\netstandard2.1\FileSignaturePolicy.AssemblyInfoInputs.cache
+C:\Users\aliuy\Source\Repos\FileSignaturePolicy\FileSignaturePolicy\obj\Debug\netstandard2.1\FileSignaturePolicy.AssemblyInfo.cs
+C:\Users\aliuy\Source\Repos\FileSignaturePolicy\FileSignaturePolicy\obj\Debug\netstandard2.1\FileSignaturePolicy.csproj.CoreCompileInputs.cache
+C:\Users\aliuy\Source\Repos\FileSignaturePolicy\FileSignaturePolicy\obj\Debug\netstandard2.1\FileSignaturePolicy.dll
+C:\Users\aliuy\Source\Repos\FileSignaturePolicy\FileSignaturePolicy\obj\Debug\netstandard2.1\FileSignaturePolicy.pdb
