@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "daMGQRPKysPDuo/eGoxbt7dcBStWcdZ47Gi4kNGuZlpuIj6ejd8vqK71SjndmZ+kYoqSvytJvL7I2J4YK9o5pA==",
+  "dgSpecHash": "nj/2QiVyCgEaWCWHk/MmXpy1uFHaMSS/uu6W2NNGN4rsUVy/cDkOT0x8dhd21MIrIfjEFe79rm98HJ/o3yQC7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aliuy\\Source\\Repos\\FileSignaturePolicy\\FileSignaturePolicy\\FileSignaturePolicy.csproj",
+  "projectFilePath": "C:\\Users\\aliuy\\source\\repos\\FileSignaturePolicy\\FileSignaturePolicy\\FileSignaturePolicy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FileSignaturePolicy</id>
+    <version>1.0.0</version>
+    <authors>Ali Uyanık</authors>
+    <readme>README.md</readme>
+    <description>Package Description</description>
+    <repository url="https://github.com/AliUyanik/FileSignaturePolicy" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\aliuy\Source\Repos\FileSignaturePolicy\FileSignaturePolicy\bin\Debug\netstandard2.1\FileSignaturePolicy.dll" target="lib\netstandard2.1\FileSignaturePolicy.dll" />
+    <file src="C:\Users\aliuy\Source\Repos\FileSignaturePolicy\README.md" target="\README.md" />
+  </files>
+</package>

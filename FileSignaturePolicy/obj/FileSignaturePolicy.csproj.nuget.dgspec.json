@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aliuy\\Source\\Repos\\FileSignaturePolicy\\FileSignaturePolicy\\FileSignaturePolicy.csproj": {}
+    "C:\\Users\\aliuy\\source\\repos\\FileSignaturePolicy\\FileSignaturePolicy\\FileSignaturePolicy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aliuy\\Source\\Repos\\FileSignaturePolicy\\FileSignaturePolicy\\FileSignaturePolicy.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\aliuy\\source\\repos\\FileSignaturePolicy\\FileSignaturePolicy\\FileSignaturePolicy.csproj": {
+      "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aliuy\\Source\\Repos\\FileSignaturePolicy\\FileSignaturePolicy\\FileSignaturePolicy.csproj",
+        "projectUniqueName": "C:\\Users\\aliuy\\source\\repos\\FileSignaturePolicy\\FileSignaturePolicy\\FileSignaturePolicy.csproj",
         "projectName": "FileSignaturePolicy",
-        "projectPath": "C:\\Users\\aliuy\\Source\\Repos\\FileSignaturePolicy\\FileSignaturePolicy\\FileSignaturePolicy.csproj",
+        "projectPath": "C:\\Users\\aliuy\\source\\repos\\FileSignaturePolicy\\FileSignaturePolicy\\FileSignaturePolicy.csproj",
         "packagesPath": "C:\\Users\\aliuy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aliuy\\Source\\Repos\\FileSignaturePolicy\\FileSignaturePolicy\\obj\\",
+        "outputPath": "C:\\Users\\aliuy\\source\\repos\\FileSignaturePolicy\\FileSignaturePolicy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

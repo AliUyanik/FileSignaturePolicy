@@ -32,9 +32,9 @@ namespace FileSignaturePolicy.Base
         public bool IsPng(byte[] source) =>
             (BitConverter.ToUInt64(source) ^ 727905341920923785) == 0;
 
-	public bool IsGif(byte[] source) =>
-	    (BitConverter.ToUInt64(source,0) ^ 106898385160519) == 0 |
-	    (BitConverter.ToUInt64(source,0) ^ 106889795225927) == 0;
+	    public bool IsGif(byte[] source) =>
+	        (BitConverter.ToUInt64(source,0) ^ 106898385160519) == 0 |
+	        (BitConverter.ToUInt64(source,0) ^ 106889795225927) == 0;
 
         public bool IsTiff(byte[] source) =>
             (BitConverter.ToUInt32(source) ^ 2771273) == 0 |
